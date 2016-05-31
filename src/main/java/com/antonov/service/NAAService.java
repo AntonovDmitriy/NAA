@@ -16,6 +16,7 @@ import javax.ws.rs.core.MediaType;
 public class NAAService {
     // The Java method will process HTTP GET requests
     @GET
+
     // The Java method will produce content identified by the MIME Media type "text/plain"
 //    @Produces(MediaType.TEXT_XML)
     @Produces("text/plain")
