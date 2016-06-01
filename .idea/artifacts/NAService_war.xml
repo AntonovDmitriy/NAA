@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="NAService:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="NAService.war">
+      <element id="artifact" artifact-name="NAService:war exploded" />
+    </root>
+  </artifact>
+</component>
